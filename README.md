@@ -1,5 +1,4 @@
 # Search-Filter-with-Php
-#
 ### view/script.js
 Sayfanın dinamikliğini sağlayan yapıları içerir.
 * **add ()**  
